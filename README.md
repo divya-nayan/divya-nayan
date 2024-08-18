@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/divyanayan_" target="blank"><img src="https://img.shields.io/twitter/follow/divyanayan_?logo=twitter&style=for-the-badge" alt="divyanayan_" /></a> </p>
 
 - 🌱 I’m currently learning **LLMs & GenAI.**
-![Header](./AIML.jpg)
+![Header](./AI.png)
 <h1 align="center">Hi 👋, I'm Divya Nayan</h1>
 <h3 align="center">AI/ML Engineer</h3>
 
